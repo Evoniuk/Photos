@@ -1,0 +1,29 @@
+body {
+    max-width: 76rem;
+    margin: auto;
+    font-family: 'Andale Mono';
+    font-size: small;
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 32rem;
+    float: left;
+}
+
+.photo {
+    height: 32rem;
+    padding: 2rem 0;
+}
+
+.desc {
+    width: 20rem;
+    margin-left: 32rem;
+    padding-left: 1rem;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 1rem;
+}
